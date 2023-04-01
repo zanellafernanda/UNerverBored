@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UNerverBored/static/css/main.a5628054.css",
-    "main.js": "/UNerverBored/static/js/main.a9cd8ef7.js",
+    "main.js": "/UNerverBored/static/js/main.91e05e7d.js",
     "static/js/787.6b8d8131.chunk.js": "/UNerverBored/static/js/787.6b8d8131.chunk.js",
     "index.html": "/UNerverBored/index.html",
     "main.a5628054.css.map": "/UNerverBored/static/css/main.a5628054.css.map",
-    "main.a9cd8ef7.js.map": "/UNerverBored/static/js/main.a9cd8ef7.js.map",
+    "main.91e05e7d.js.map": "/UNerverBored/static/js/main.91e05e7d.js.map",
     "787.6b8d8131.chunk.js.map": "/UNerverBored/static/js/787.6b8d8131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5628054.css",
-    "static/js/main.a9cd8ef7.js"
+    "static/js/main.91e05e7d.js"
   ]
 }
