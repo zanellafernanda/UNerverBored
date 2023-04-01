@@ -54,7 +54,7 @@ function App() {
       {activity && (
         <div className="app__wrapper">
           <div className="left">
-            <img src={`/${activity.type}.jpg`} alt={activity.type} />
+            <img src={`./${activity.type}.jpg`} alt={activity.type} />
           </div>
           <div className="right">
             <h2>{activity.activity}</h2>
